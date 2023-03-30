@@ -1,5 +1,5 @@
 # Анализ пользовательского поведения в мобильном приложении
-[ipynb](https://github.com/snn34/Portfolio/blob/main/AAB%20testing/AAB_IPYNB.ipynb "Открыть проект в формате jupiter notebook") [html](https://github.com/snn34/Portfolio/raw/main/AAB%20testing/AAB_HTML.html "Сохранить в формате html")
+[ipynb](https://github.com/snn34/Portfolio/blob/main/AAB%20testing/AAB_IPYNB.ipynb "Открыть проект в формате jupiter notebook") [html](https://github.com/snn34/Portfolio/raw/main/AAB%20testing/AAB_HTML.html "Необходимо скачать эту ссылку на html-файл через функцию браузера 'Сохранить ссылку как...'")
 ## Описание проекта
 Дизайнеры захотели поменять шрифты в приложении по продаже продуктов питания, а менеджеры испугались, что пользователям будет непривычно. Договорились принять решение по результатам A/A/B-теста. На основе данных из лог-файла с действиями пользователей и событиями необходимо проанализировать воронку продаж и исследовать результаты A/A/B-эксперимента.
 
